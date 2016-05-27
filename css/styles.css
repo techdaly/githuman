@@ -1,0 +1,78 @@
+body{
+  background-color: #B3C2F2;
+}
+
+#site-title{
+  text-align: center;
+  font-family: avenir;
+  font-weight: bold;
+  font-size: 100px;
+  color: #6F2DBD;
+}
+
+#sub-title{
+  text-align: center;
+  font-family: avenir;
+  font-size: 36px;
+  color: #735CDD;
+}
+
+#mini-title{
+  text-align: center;
+  font-family: avenir;
+  font-weight: thin;
+  font-size: 18px;
+  font-style: italic;
+  color: white;
+}
+
+#human-search {
+  margin-top: 40px;
+  display: block;
+  width: 450px;
+  height: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  font-size: 18px;
+  font-family: avenir;
+  border-color: white;
+}
+
+#search-button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  border-radius: 5px;
+  font-size: 18px;
+  font-family: avenir;
+  color: white;
+  background-color: #735CDD;
+  border-color: #735CDD;
+  width: 100px;
+}
+
+input{
+  text-indent: 5px;
+}
+
+#result{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 450px;
+  font-family: avenir;
+  font-size: 18px;
+  color: #6F2DBD;
+  padding-top: 35px;
+}
+
+#search-name{
+  font-size: 30px;
+  text-align: center;
+}
+
+#repo-title{
+  font-size: 24px;
+}

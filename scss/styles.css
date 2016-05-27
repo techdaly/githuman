@@ -1,0 +1,27 @@
+body{
+  background-color: #B3C2F2;
+}
+
+#site-title{
+  text-align: center;
+  font-family: avenir;
+  font-weight: bold;
+  font-size: 80px;
+  color: #6F2DBD;
+}
+
+#sub-title{
+  text-align: center;
+  font-family: avenir;
+  font-size: 48px;
+  color: #735CDD;
+}
+
+#mini-title{
+  text-align: center;
+  font-family: avenir;
+  font-weight: thin;
+  font-size: 18px;
+  font-style: italic;
+  color: white;
+}
